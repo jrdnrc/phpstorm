@@ -1,0 +1,17 @@
+function rewrite {
+    git rebase --preserve-merges @~$1 -i
+}
+
+function rebase {
+    git fetch
+    git rebase origin/${1-develop}
+}
+
+function prebase {
+    git fetch
+    git rebase --preserve-merges origin/${1-develop}
+}
+
+function gsign-continue {
+    git commit -S --amend --no-edit && git rebase --continue
+}
