@@ -1,0 +1,29 @@
+<scheme name="My Custom" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-04-23T16:52:11</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.2.0.0</property>
+    <property name="modified">2018-04-23T16:54:39</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="646464" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c2e3ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value />
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fffed5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
