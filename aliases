@@ -15,3 +15,6 @@ function prebase {
 function gsign-continue {
     git commit -S --amend --no-edit && git rebase --continue
 }
+
+alias dcinstall="docker run --rm -v $(pwd):/app -v ~/.ssh:/root/.ssh composer/composer install --ignore-platform-reqs"
+alias dcyarn="docker run -itv ~/.docker-yarn-cache:/root/yarn-cache -v `pwd`:/opt/project --workdir /opt/project node:8.9.1 yarn"
