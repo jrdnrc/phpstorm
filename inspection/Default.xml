@@ -74,6 +74,7 @@
         <option value="behat/behat" />
         <option value="brianium/paratest" />
         <option value="codeception/codeception" />
+        <option value="codedungeon/phpunit-result-printer" />
         <option value="composer/composer" />
         <option value="filp/whoops" />
         <option value="friendsofphp/php-cs-fixer" />
@@ -102,6 +103,7 @@
         <option value="satooshi/php-coveralls" />
         <option value="sebastian/phpcpd" />
         <option value="slevomat/coding-standard" />
+        <option value="spatie/phpunit-watcher" />
         <option value="squizlabs/php_codesniffer" />
         <option value="sstalle/php7cc" />
         <option value="symfony/debug" />
@@ -118,4 +120,5 @@
     </option>
   </inspection_tool>
   <inspection_tool class="UnqualifiedReferenceInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="UselessReturnInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
