@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="82d2c59ebbe66bc486e0cfa002287ff9c1c75c" type="PLAIN_TEXT" />
+      <mapping pattern="df041bd33e0d73a980e2d62dd1ea325e5f80fc" type="PLAIN_TEXT" />
       <mapping pattern="tl-900-bills-breakdown" type="PLAIN_TEXT" />
       <mapping pattern="worker-stripe" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
