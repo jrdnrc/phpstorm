@@ -4,6 +4,8 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="cb55b4" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
