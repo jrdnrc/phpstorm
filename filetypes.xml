@@ -4,7 +4,9 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="docker:install" type="PLAIN_TEXT" />
+      <mapping pattern="9580d49722bf35c0f4fc0dc145d4382d2dc61f" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="1f54043e40e88262c3f6bcf76768aceea7d7ad" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
