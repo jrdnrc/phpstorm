@@ -4,7 +4,7 @@
     <property name="created">2018-04-23T14:57:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-04-24T11:27:38</property>
+    <property name="modified">2018-11-15T14:41:50</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <console-font>
@@ -18,6 +18,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="576d" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
   </colors>
   <attributes>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -54,6 +55,18 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fffed5" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
