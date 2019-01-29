@@ -1,5 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
@@ -121,6 +122,5 @@
   <inspection_tool class="ThrowRawExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="REPORT_MISSING_ARGUMENTS" value="false" />
   </inspection_tool>
-  <inspection_tool class="UnqualifiedReferenceInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UselessReturnInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
