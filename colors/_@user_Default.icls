@@ -4,7 +4,7 @@
     <property name="created">2018-04-23T14:57:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-11-15T14:41:50</property>
+    <property name="modified">2019-02-18T11:19:38</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <console-font>
@@ -59,6 +59,11 @@
     </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />

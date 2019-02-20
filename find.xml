@@ -12,7 +12,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.feat</mask>
+    <mask>*.twig</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
   </component>
