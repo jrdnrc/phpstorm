@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language injection/Un-inject language/reference" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
   </component>
 </application>
