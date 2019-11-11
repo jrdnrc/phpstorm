@@ -18,7 +18,7 @@
     <mask>*.tpl</mask>
     <mask>routes.php</mask>
     <mask>*.js</mask>
-    <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
