@@ -13,8 +13,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427439334" />
-              <option name="times" value="3" />
+              <option name="last" value="1581501152542" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -50,6 +50,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CloseContent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581501102148" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="CommentByBlockComment">
           <value>
             <ActionSummary>
@@ -69,8 +77,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581439664368" />
-              <option name="times" value="408" />
+              <option name="last" value="1581501152731" />
+              <option name="times" value="409" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +413,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414107575" />
-              <option name="times" value="5" />
+              <option name="last" value="1581501103683" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,16 +485,16 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581420148782" />
-              <option name="times" value="15" />
+              <option name="last" value="1581501102830" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581500944283" />
-              <option name="times" value="18" />
+              <option name="last" value="1581501105213" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
