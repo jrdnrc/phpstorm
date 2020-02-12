@@ -77,8 +77,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581501152731" />
-              <option name="times" value="409" />
+              <option name="last" value="1581502677703" />
+              <option name="times" value="413" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581436394270" />
-              <option name="times" value="13" />
+              <option name="last" value="1581502630692" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,16 +341,16 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581500942550" />
-              <option name="times" value="12" />
+              <option name="last" value="1581502675577" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581500643368" />
-              <option name="times" value="38" />
+              <option name="last" value="1581502740377" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -493,8 +493,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581501105213" />
-              <option name="times" value="23" />
+              <option name="last" value="1581502678502" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
