@@ -357,8 +357,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581524066586" />
-              <option name="times" value="44" />
+              <option name="last" value="1581535739662" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581516315114" />
-              <option name="times" value="9" />
+              <option name="last" value="1581535478566" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
