@@ -85,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581608973410" />
-              <option name="times" value="685" />
+              <option name="last" value="1581671266904" />
+              <option name="times" value="687" />
             </ActionSummary>
           </value>
         </entry>
@@ -554,6 +554,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581671311332" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581671301184" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
@@ -597,8 +613,8 @@
         <entry key="com.intellij.openapi.wm.impl.ProjectWindowAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670457275" />
-              <option name="times" value="13" />
+              <option name="last" value="1581671429095" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
