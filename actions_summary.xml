@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581607058169" />
-              <option name="times" value="6" />
+              <option name="last" value="1581681256834" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679373962" />
-              <option name="times" value="91" />
+              <option name="last" value="1581681276284" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorNextWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581678121706" />
-              <option name="times" value="88" />
+              <option name="last" value="1581681275622" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679344870" />
-              <option name="times" value="27" />
+              <option name="last" value="1581681252873" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581677906251" />
-              <option name="times" value="24" />
+              <option name="last" value="1581681456714" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -597,8 +597,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679346614" />
-              <option name="times" value="56" />
+              <option name="last" value="1581681259646" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679346264" />
-              <option name="times" value="4" />
+              <option name="last" value="1581681259321" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
