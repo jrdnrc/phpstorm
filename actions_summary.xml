@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681256834" />
-              <option name="times" value="7" />
+              <option name="last" value="1581687433897" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679321932" />
-              <option name="times" value="752" />
+              <option name="last" value="1581687435628" />
+              <option name="times" value="753" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581677906860" />
-              <option name="times" value="31" />
+              <option name="last" value="1581687432558" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581677975543" />
-              <option name="times" value="54" />
+              <option name="last" value="1581687440568" />
+              <option name="times" value="55" />
             </ActionSummary>
           </value>
         </entry>
