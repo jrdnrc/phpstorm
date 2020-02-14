@@ -549,8 +549,8 @@
         <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1581412146865" />
-              <option name="times" value="1" />
+              <option name="last" value="1581669015533" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -589,8 +589,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581412136301" />
-              <option name="times" value="1" />
+              <option name="last" value="1581669003826" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
