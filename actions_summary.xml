@@ -437,8 +437,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581681456714" />
-              <option name="times" value="26" />
+              <option name="last" value="1581685552950" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="com.intellij.openapi.wm.impl.ProjectWindowAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679687314" />
-              <option name="times" value="15" />
+              <option name="last" value="1581685556678" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
