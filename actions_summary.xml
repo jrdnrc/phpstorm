@@ -109,8 +109,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581934412269" />
-              <option name="times" value="123" />
+              <option name="last" value="1581936488996" />
+              <option name="times" value="141" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581934270093" />
-              <option name="times" value="29" />
+              <option name="last" value="1581936580020" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581933718471" />
-              <option name="times" value="60" />
+              <option name="last" value="1581936469680" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581677977061" />
-              <option name="times" value="12" />
+              <option name="last" value="1581935762862" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
