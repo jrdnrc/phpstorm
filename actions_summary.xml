@@ -109,8 +109,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106557147" />
-              <option name="times" value="1295" />
+              <option name="last" value="1582112243915" />
+              <option name="times" value="1296" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582110845856" />
-              <option name="times" value="371" />
+              <option name="last" value="1582112241004" />
+              <option name="times" value="372" />
             </ActionSummary>
           </value>
         </entry>
@@ -431,6 +431,14 @@
             <ActionSummary>
               <option name="last" value="1582107230002" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="InvalidateCaches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582111705416" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
