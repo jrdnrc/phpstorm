@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Copy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582129496948" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Delete">
           <value>
             <ActionSummary>
@@ -21,8 +29,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125295618" />
-              <option name="times" value="40" />
+              <option name="last" value="1582129490087" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +189,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1582122258444" />
-              <option name="times" value="65" />
+              <option name="last" value="1582129198767" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +373,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582124941757" />
-              <option name="times" value="51" />
+              <option name="last" value="1582129195494" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +629,8 @@
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
-              <option name="last" value="1582121471165" />
-              <option name="times" value="25" />
+              <option name="last" value="1582129198172" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
