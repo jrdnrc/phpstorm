@@ -29,8 +29,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214669673" />
-              <option name="times" value="43" />
+              <option name="last" value="1582215445559" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214540951" />
-              <option name="times" value="16" />
+              <option name="last" value="1582215405478" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,16 +773,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214520207" />
-              <option name="times" value="205" />
+              <option name="last" value="1582215420931" />
+              <option name="times" value="206" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581947699847" />
-              <option name="times" value="2" />
+              <option name="last" value="1582215426932" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
