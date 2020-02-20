@@ -117,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214517982" />
-              <option name="times" value="1453" />
+              <option name="last" value="1582217001461" />
+              <option name="times" value="1454" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorPreviousWordWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582126890165" />
-              <option name="times" value="155" />
+              <option name="last" value="1582216997490" />
+              <option name="times" value="156" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,16 +373,16 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214666257" />
-              <option name="times" value="60" />
+              <option name="last" value="1582216856672" />
+              <option name="times" value="61" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195326003" />
-              <option name="times" value="85" />
+              <option name="last" value="1582216861464" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -421,8 +421,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582214683308" />
-              <option name="times" value="152" />
+              <option name="last" value="1582217018057" />
+              <option name="times" value="153" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582039991319" />
-              <option name="times" value="8" />
+              <option name="last" value="1582216996141" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
