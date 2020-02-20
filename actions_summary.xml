@@ -77,8 +77,8 @@
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
-              <option name="last" value="1582118566788" />
-              <option name="times" value="6" />
+              <option name="last" value="1582191509299" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -527,6 +527,14 @@
             <ActionSummary>
               <option name="last" value="1582036410236" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="PinActiveEditorTab">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582191506512" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
