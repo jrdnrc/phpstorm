@@ -277,8 +277,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582292627968" />
-              <option name="times" value="232" />
+              <option name="last" value="1582295947910" />
+              <option name="times" value="234" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,16 +389,16 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582281694153" />
-              <option name="times" value="98" />
+              <option name="last" value="1582295979724" />
+              <option name="times" value="101" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1582281006005" />
-              <option name="times" value="14" />
+              <option name="last" value="1582296366077" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582292487597" />
-              <option name="times" value="158" />
+              <option name="last" value="1582296058874" />
+              <option name="times" value="160" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="NextWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582292360609" />
-              <option name="times" value="135" />
+              <option name="last" value="1582295979086" />
+              <option name="times" value="139" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582216996141" />
-              <option name="times" value="10" />
+              <option name="last" value="1582295951454" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +805,8 @@
         <entry key="com.intellij.openapi.wm.impl.ProjectWindowAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582125363294" />
-              <option name="times" value="52" />
+              <option name="last" value="1582295946586" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
