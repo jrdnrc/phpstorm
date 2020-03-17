@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language injection/Un-inject language/reference" />
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Database/Run query in console" />
   </component>
 </application>
