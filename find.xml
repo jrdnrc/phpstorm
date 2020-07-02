@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.feature" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,8 +20,8 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.feat</mask>
     <mask>*.feature</mask>
+    <mask>*.php</mask>
   </component>
 </application>
