@@ -25,7 +25,7 @@
     <mask>*.yml</mask>
     <mask>*.feat</mask>
     <mask>*.feature</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
