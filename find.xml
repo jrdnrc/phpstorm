@@ -22,8 +22,8 @@
     <mask>*.tpl</mask>
     <mask>*.twig</mask>
     <mask>*.ts</mask>
-    <mask>*.feature</mask>
     <mask>*.js</mask>
+    <mask>*.feature</mask>
     <mask>*.php</mask>
   </component>
 </application>
