@@ -23,10 +23,10 @@
     <mask>*.yml</mask>
     <mask>*.feat</mask>
     <mask>*.tpl</mask>
-    <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
