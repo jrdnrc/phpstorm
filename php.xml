@@ -147,4 +147,7 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="replaceUnnecessaryDoubleQuotes" value="true" />
+  </component>
 </application>
