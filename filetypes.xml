@@ -9,9 +9,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="log" type="Twig" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
