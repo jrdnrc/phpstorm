@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="docker:upload-artifact" type="AUTO_DETECTED" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing.docker" type="PLAIN_TEXT" />
       <mapping pattern="worker-cache" type="PLAIN_TEXT" />
       <mapping pattern="docker:test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
