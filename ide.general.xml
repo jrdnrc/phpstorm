@@ -18,6 +18,7 @@
       <map>
         <entry key="Notifications" value="false" />
         <entry key="Position" value="false" />
+        <entry key="php.language.level.widget" value="false" />
       </map>
     </option>
   </component>
