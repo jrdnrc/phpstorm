@@ -25,7 +25,7 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>serverless.ts</mask>
-    <mask>*.php</mask>
     <mask>*.feature</mask>
+    <mask>*.php</mask>
   </component>
 </application>
