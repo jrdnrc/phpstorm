@@ -29,5 +29,6 @@
     <mask>serverless.ts</mask>
     <mask>*.php</mask>
     <mask>*.feature</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
