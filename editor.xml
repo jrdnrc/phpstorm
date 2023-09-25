@@ -38,7 +38,7 @@
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="false" />
-        <entry key="ts.type.hints" value="false" />
+        <entry key="ts.type.hints" value="true" />
       </map>
     </option>
   </component>
