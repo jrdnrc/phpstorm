@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +29,8 @@
     <mask>package.json</mask>
     <mask>serverless.ts</mask>
     <mask>*.twig</mask>
-    <mask>*.ts</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
