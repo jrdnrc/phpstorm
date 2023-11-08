@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.po" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,9 +27,9 @@
     <mask>package.json</mask>
     <mask>serverless.ts</mask>
     <mask>*.feature</mask>
-    <mask>*.po</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.po</mask>
   </component>
 </application>
