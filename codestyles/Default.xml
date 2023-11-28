@@ -3,15 +3,20 @@
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_MATCH_ARM_BODIES" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="IMPORT_SORTING" value="BY_LENGTH" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+    <option name="ALIGN_ENUM_CASES" value="true" />
     <option name="SPACE_BEFORE_SHORT_CLOSURE_LEFT_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
   </codeStyleSettings>
 </code_scheme>
