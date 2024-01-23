@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,10 +26,11 @@
     <mask>*.feat</mask>
     <mask>package.json</mask>
     <mask>serverless.ts</mask>
-    <mask>*.twig</mask>
     <mask>*.ts</mask>
     <mask>*.po</mask>
     <mask>*.php</mask>
     <mask>*.feature</mask>
+    <mask>*.sh</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
