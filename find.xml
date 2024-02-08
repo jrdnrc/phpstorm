@@ -26,10 +26,10 @@
     <mask>package.json</mask>
     <mask>serverless.ts</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.feature</mask>
     <mask>*.sh</mask>
     <mask>*.twig</mask>
     <mask>*.po</mask>
+    <mask>*.php</mask>
   </component>
 </application>
