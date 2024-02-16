@@ -16,7 +16,6 @@
     <mask>*.featuredoc</mask>
     <mask>routes.php</mask>
     <mask>routes</mask>
-    <mask>*.tpl</mask>
     <mask>.php</mask>
     <mask>*.json</mask>
     <mask>composer.json</mask>
@@ -31,5 +30,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
