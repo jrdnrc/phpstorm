@@ -28,8 +28,8 @@
     <mask>*.sh</mask>
     <mask>*.po</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.tpl</mask>
+    <mask>*.php</mask>
   </component>
 </application>
