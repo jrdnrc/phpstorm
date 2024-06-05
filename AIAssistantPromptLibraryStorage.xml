@@ -10,7 +10,7 @@
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_findproblems" />
               <option name="name" value="Find Problems" />
-              <option name="priority" value="30" />
+              <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
             </AIAssistantStoredPrompt>
           </value>
@@ -23,7 +23,7 @@
               <option name="hasCustomTitle" value="true" />
               <option name="id" value="builtin_newchat" />
               <option name="name" value="New Chat Using Selection" />
-              <option name="priority" value="20" />
+              <option name="priority" value="100500" />
               <option name="showInInput" value="false" />
               <option name="waitForInput" value="true" />
             </AIAssistantStoredPrompt>

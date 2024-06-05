@@ -3,7 +3,6 @@
     <group value="Github.Open.In.Browser" is_group="true" forse_popup="false" action_type="1" position="27">
       <path value="root" />
       <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
     </group>
   </component>
 </application>
