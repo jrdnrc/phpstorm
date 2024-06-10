@@ -18,7 +18,9 @@
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="CLASS_BRACE_STYLE" value="5" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
   </codeStyleSettings>
 </code_scheme>
