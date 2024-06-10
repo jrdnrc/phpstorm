@@ -3,6 +3,8 @@
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_NAMED_ARGUMENTS" value="true" />
     <option name="ALIGN_MATCH_ARM_BODIES" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
@@ -16,6 +18,7 @@
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
   </codeStyleSettings>
 </code_scheme>
