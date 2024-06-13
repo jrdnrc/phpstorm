@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.kubernetes" />
+        <option value="com.intellij.angularjs" />
       </list>
     </option>
   </component>
