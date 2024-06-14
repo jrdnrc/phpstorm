@@ -30,8 +30,8 @@
     <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.twig</mask>
-    <mask>*.feature</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
