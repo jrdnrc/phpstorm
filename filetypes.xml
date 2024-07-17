@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="docker:upload-artifact" type="AUTO_DETECTED" />
       <mapping pattern="gs" type="AUTO_DETECTED" />
-      <removed_mapping ext="log" type="Log" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing.docker" type="PLAIN_TEXT" />
       <mapping pattern="worker-cache" type="PLAIN_TEXT" />
@@ -18,6 +17,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="LargeLog" />
+      <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
