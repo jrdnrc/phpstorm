@@ -28,8 +28,8 @@
     <mask>*.json</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
-    <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*.feature</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
