@@ -7,11 +7,13 @@
       <map>
         <entry key="component.usage" value="Default" />
         <entry key="inheritors" value="Default" />
+        <entry key="llm" value="Default" />
         <entry key="references" value="Default" />
         <entry key="rename" value="Default" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="defaultPosition" value="Top" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="component.usage" />
