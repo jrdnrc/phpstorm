@@ -9,9 +9,9 @@
       <mapping pattern="worker-cache" type="PLAIN_TEXT" />
       <mapping pattern="docker:test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="log" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

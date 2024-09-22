@@ -4,6 +4,7 @@
       <list>
         <option value="com.intellij.kubernetes" />
         <option value="com.intellij.angularjs" />
+        <option value="com.intellij.lang.jsgraphql" />
       </list>
     </option>
   </component>
