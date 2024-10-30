@@ -31,7 +31,7 @@
     <mask>*.css</mask>
     <mask>*.tpl</mask>
     <mask>*.ts</mask>
-    <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
