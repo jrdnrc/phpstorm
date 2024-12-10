@@ -17,7 +17,6 @@
     <mask>routes</mask>
     <mask>.php</mask>
     <mask>composer.json</mask>
-    <mask>*.yml</mask>
     <mask>*.feat</mask>
     <mask>package.json</mask>
     <mask>serverless.ts</mask>
@@ -31,5 +30,6 @@
     <mask>*.ts</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
