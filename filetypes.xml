@@ -11,7 +11,6 @@
       <mapping pattern="docker:test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="log" type="Twig" />
@@ -19,6 +18,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="env" approved="true" type=".env file" />
+      <removed_mapping ext="hcl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="LargeLog" />
       <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
