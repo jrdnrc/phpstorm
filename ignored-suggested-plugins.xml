@@ -5,6 +5,7 @@
         <option value="com.intellij.kubernetes" />
         <option value="com.intellij.angularjs" />
         <option value="com.intellij.lang.jsgraphql" />
+        <option value="intellij.vitejs" />
       </list>
     </option>
   </component>
