@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,9 +30,9 @@
     <mask>*.css</mask>
     <mask>*.tpl</mask>
     <mask>*.ts</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
