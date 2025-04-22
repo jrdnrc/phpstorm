@@ -15,60 +15,60 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c3e88d" />
-    <option name="ANNOTATIONS_COLOR" value="b0bec5" />
-    <option name="CARET_COLOR" value="ffcc00" />
+    <option name="ADDED_LINES_COLOR" value="C3E88D" />
+    <option name="ANNOTATIONS_COLOR" value="B0BEC5" />
+    <option name="CARET_COLOR" value="FFCC00" />
     <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
-    <option name="DELETED_LINES_COLOR" value="f77669" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
+    <option name="DELETED_LINES_COLOR" value="F77669" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1C1C1C" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_ADDED" value="C3E88D" />
+    <option name="FILESTATUS_COPIED" value="C3E88D" />
     <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="C3E88D" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="AB7967" />
+    <option name="FILESTATUS_MERGED" value="C792EA" />
+    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="7C7C00" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_SWITCHED" value="C792EA" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="FILESTATUS_addedOutside" value="C3E88D" />
+    <option name="FILESTATUS_modifiedOutside" value="82AAFF" />
     <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
-    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="MODIFIED_LINES_COLOR" value="FFCB6E" />
+    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="AB7967" />
+    <option name="MT_SUPPRESSED" value="EEFFFF" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="212121" />
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
     <option name="SELECTION_BACKGROUND" value="353535" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="SELECTION_FOREGROUND" value="FFFBF7" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4F6269" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="424242" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="5A4036" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="AB7967" />
     <option name="WHITESPACES" value="616161" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="D9F5DD" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -578,15 +578,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -3846,9 +3846,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
