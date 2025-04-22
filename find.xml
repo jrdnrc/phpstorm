@@ -3,20 +3,32 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php" />
-    <mask>*.css</mask>
+    <mask>*.properties</mask>
     <mask>*.html</mask>
+    <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.inc</mask>
-    <mask>*.php5</mask>
-    <mask>*.php4</mask>
-    <mask>*.phtml</mask>
-    <mask>*.module</mask>
-    <mask>*.hphp</mask>
-    <mask>*.ctp</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php,*.twig</mask>
+    <mask>*.php(</mask>
+    <mask>*.featuredoc</mask>
+    <mask>routes.php</mask>
+    <mask>routes</mask>
+    <mask>.php</mask>
+    <mask>composer.json</mask>
+    <mask>*.feat</mask>
+    <mask>package.json</mask>
+    <mask>serverless.ts</mask>
+    <mask>*.sh</mask>
+    <mask>*.po</mask>
+    <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*.tpl</mask>
     <mask>*.ts</mask>
-    <mask>index.ts</mask>
+    <mask>*.twig</mask>
+    <mask>*.yml</mask>
     <mask>*.feature</mask>
     <mask>*.php</mask>
   </component>
