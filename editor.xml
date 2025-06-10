@@ -83,7 +83,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
@@ -99,5 +99,8 @@
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
+  </component>
+  <component name="PhpEditorOptions">
+    <option name="ALWAYS_ENABLE_BLADE_TEMPLATE_HIGHLIGHTING" value="true" />
   </component>
 </application>
