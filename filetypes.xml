@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern="docker:phpstan" type="AUTO_DETECTED" />
       <mapping ext="cov" type="PHP" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
