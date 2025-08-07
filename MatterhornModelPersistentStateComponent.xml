@@ -10,6 +10,10 @@
           <option name="actionRegex" value="^\Qfind src/BondRegister -type f -name &quot;*.php&quot; | sort\E$" />
           <option name="actionType" value="Terminal" />
         </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^\Q./vendor/bin/phpunit \E\S+$" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
       </list>
     </option>
   </component>
