@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Changed Files" />
+    <option name="FILE_MASK" value="*.feature" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,7 +32,7 @@
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
-    <mask>*.feature</mask>
     <mask>*.php</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
