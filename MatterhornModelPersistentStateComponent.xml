@@ -16,5 +16,6 @@
         </Allowed>
       </list>
     </option>
+    <option name="speedMode" value="Quality" />
   </component>
 </application>
