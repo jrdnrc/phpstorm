@@ -5,6 +5,7 @@
       <mapping pattern="docker:phpstan" type="AUTO_DETECTED" />
       <mapping pattern="build-openapi-php" type="AUTO_DETECTED" />
       <mapping pattern="build-openapi-ts" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping ext="cov" type="PHP" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
