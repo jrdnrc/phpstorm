@@ -8,5 +8,9 @@
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
     <option name="terminalRulesVersion" value="1" />
+    <mcpSamplingAllowedModels>
+      <option value="auto" />
+      <option value="gpt-4.1" />
+    </mcpSamplingAllowedModels>
   </component>
 </application>
