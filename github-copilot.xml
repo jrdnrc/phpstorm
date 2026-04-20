@@ -9,7 +9,6 @@
     <option name="showIdeCompletions" value="true" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="toolConfirmAutoApprove" value="true" />
-    <option name="enableSkills" value="true" />
     <option name="useNestedAgentsMdFiles" value="true" />
     <option name="useNestedClaudeMdFiles" value="true" />
     <option name="terminalRulesVersion" value="1" />
