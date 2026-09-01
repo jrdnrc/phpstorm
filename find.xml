@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.feature" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -33,7 +34,7 @@
     <mask>!./**/.terragrunt-cache/*</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*.feature</mask>
     <mask>*.tf</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
